@@ -1,6 +1,3 @@
-Here’s the finalized **README.md** file, ready for you to copy and paste directly into your GitHub repository:
-
-```markdown
 # ML-IoT Fan Control System
 
 ## Overview
@@ -37,7 +34,6 @@ Follow these steps to set up and run the project:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/Oluwaseun55/ML-IOT-on-Fan-control-system.git
-   ```
 
 2. **Navigate to the Project Directory**:
    ```bash
