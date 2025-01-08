@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fan Control Prediction</title>
+</head>
+<body>
+    <h1>Fan Control Prediction</h1>
+    <form id="predict-form">
+        <label for="fan-type">Fan Type:</label>
+        <select id="fan-type" name="fan_type">
+            <option value="studio">Studio Fan</option>
+            <option value="dog">Dog Fan</option>
+        </select>
+        <label for="inputs">Inputs (comma-separated):</label>
+        <input type="text" id="inputs" name="inputs">
+        <button type="submit">Predict</button>
+    </form>
+    <div id="result"></div>
+</body>
+</html>
